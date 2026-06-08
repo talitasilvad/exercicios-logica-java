@@ -1,0 +1,11 @@
+# Maven
+target/
+
+# Ignora qualquer target em subpastas
+**/target/
+
+# NetBeans
+nbproject/private/
+
+# Logs
+*.log
